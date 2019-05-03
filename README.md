@@ -19,7 +19,6 @@ cd lua-5.3.5
 make <linux, macosx, etc> test
 make <linux, macosx, etc> install
 ```
-Lua comes with an REPL interpreter that you can access by simply typing ```lua```. (I still haven't figured how to quit the REPL, but you can always do a ctrl+C....:) )
 
 Finally, clone this repo and run ```lua luabuzz.lua``` to see the magic!
 
