@@ -23,6 +23,10 @@ Lua comes with an REPL interpreter that you can access by simply typing ```lua``
 
 Finally, clone this repo and run ```lua luabuzz.lua``` to see the magic!
 
+## Translation(NEXT STEP)
+
+To use lua2js(https://github.com/mherkender/lua.js), which translates Lua into javaScript and allows you to open it in a browser. 
+
 ## By
 
 @anthrolanguage
